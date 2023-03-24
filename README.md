@@ -1,6 +1,6 @@
 **Introducing the Real Estate Mobile App** - a fantastic project created as part of the Final Hackathon of the WEB & MOBILE BATCH 04 organized by **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)** on August 28, 2022. This impressive app was developed using cutting-edge technologies such as React-Native, Node JS, MongoDB, Express JS, and Native Base.
 
-It is worth noting that **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)** is an exceptional institution launched by the Saylani Welfare International Trust of Pakistan, dedicated to providing the latest IT skills to aspiring developers.
+It is worth noting that **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)** is an exceptional institution launched by the**[Saylani Welfare International Trust of Pakistan](https://saylaniwelfare.com/en)**, dedicated to providing the latest IT skills to aspiring developers.
 
 **[The Frontend of The Real Estate Mobile App](https://github.com/Ahmadjajja/Hackathon_Frontend_2022_Batch_04)** comes loaded with amazing features, including -
 * authentication
