@@ -17,4 +17,4 @@ It is worth noting that **[Saylani Mass IT Training Program(SMIT)](https://sayla
 * REST APIs for adding, deleting, updating, and creating properties
 * REST APIs for tracking likes and dislikes.
 
-Overall, the **Real Estate Mobile App** is an incredible project that showcases the my skill and creativity in using the latest technologies to build a top-notch mobile app that is sure to impress anyone in the real estate industry.
+Overall, the **Real Estate Mobile App** is an incredible project that showcases the my skill and creativity in using the latest technologies to build a top-notch mobile app that is sure to impress anyone in the real estate industry. 
